@@ -1,5 +1,6 @@
 # 💫 About Me:
 Tech lover 🫠🫀
+<a href="https://mrjlm.netlify.app">My Resume Website</a>
 
 
 ## 🌐 Socials:
