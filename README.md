@@ -1,9 +1,12 @@
-<div align="center">
+<div align="center" >
   <a href="https://www.linkedin.com/in/amirhosein-jalalimanesh-9aa629244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/18864268/amirhosein" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="30" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="50" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://mrjlm.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-8A2BE2" height="50" alt="website"  />
   </a>
 </div>
 
@@ -59,10 +62,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrjlm70/mrjlm70/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrjlm70/mrjlm70/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrjlm70/mrjlm70/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
