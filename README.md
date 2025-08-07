@@ -18,11 +18,12 @@
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
-###
+
+
 
 <p align="left">I'm from Tehran<br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning ML</p>
 
-###
+<hr>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,7 +50,7 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
